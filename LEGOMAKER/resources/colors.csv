@@ -1,0 +1,17 @@
+﻿r,g,b,name,code
+0,0,0,black,code black
+255,255,255,white,code white
+255,0,0,red,code red
+0,255,0,lime,code lime
+0,0,255,blue,code blue
+255,255,0,yellow,code yellow
+0,255,255,cyan,code cyan
+255,0,255,magenta,code magenta
+192,192,192,silver,code silver
+128,128,128,grey,code grey
+128,0,0,marron,code maroon
+128,128,0,olive,code olive
+0,128,0,green,code green
+128,0,128,purple,code purple
+0,128,128,teal ,code teal
+0,0,128,navy,code navy
