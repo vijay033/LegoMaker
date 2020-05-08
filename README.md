@@ -7,7 +7,9 @@
 #### make your own color palette by choosing RGB values
 ## Run : LEGOMAKER > python __main__new.py
 #### put multiple files at "in" directory and find lego at "out" directory 
-#### Variables to change :__main__new.py
 
+#### Variables to change :__main__new.py
 * pattern = 'colorLego.csv'
 * palette_scheme = 'colorLego'
+* input_image_path =  './in/celebA'
+* output_path = './out'
